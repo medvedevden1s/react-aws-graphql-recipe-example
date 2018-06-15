@@ -3,6 +3,7 @@ import React from 'react'
 import { css } from 'glamor'
 import { graphql } from 'react-apollo'
 import ListRecipes from './queries/ListRecipes'
+import { compose } from 'react-apollo';
 import NewRecipeSubscription from './subscriptions/NewRecipeSubscription'
 
 class Recipes extends React.Component {
