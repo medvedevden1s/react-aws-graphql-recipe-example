@@ -1,11 +1,11 @@
-# React + AWS AppSync + GrapQL Recipe App
+# React + AWSAppSync + GrapQL Recipe App
 
 ## To run this project
 
 1. clone this repo    
 
 ```
-git clone https://github.com/dabit3/react-appsync-graphql-recipe-app.git
+git clone https://github.com/medvedevden1s/react-aws-graphql-recipe-example.git
 ```
 
 2. cd into directory and install the dependencies    
